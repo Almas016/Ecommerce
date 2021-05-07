@@ -13,6 +13,10 @@ $ npm run watch
 $ php artisan serve
 ```
 
+<details>
+<summary>ScreenShots</summary>
+<br>
+
 ## Homepage
 ![alt text](https://github.com/Almas016/Ecommerce/blob/master/ScreenShots/Home-Page.png)
 
@@ -30,3 +34,5 @@ $ php artisan serve
 
 ## Register
 ![alt text](https://github.com/Almas016/Ecommerce/blob/master/ScreenShots/Register.png)
+
+</details>
