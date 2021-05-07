@@ -14,7 +14,7 @@ $ php artisan serve
 ```
 
 <details>
-<summary>ScreenShots</summary>
+<summary># ScreenShots</summary>
 <br>
 
 ## Homepage
