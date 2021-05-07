@@ -1,9 +1,14 @@
 # Installation
-> $ git clone git@gitlab.com:abylayomar/sauap_reader.git
+> $ git clone https://github.com/Almas016/Ecommerce.git
+
 > $ cd sauap_reader
+
 > $ composer install # for install dependencies. Run only 1 time
+
 > $ php artisan migrate:fresh --seed #for create migrations 
+
 > $ npm run watch 
+
 > $ php artisan serve
 
 ## Homepage
