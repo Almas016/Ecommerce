@@ -12,9 +12,9 @@ $ npm run watch
 
 $ php artisan serve
 ```
-
+<br>
 <details>
-# <summary>ScreenShots</summary>
+<summary>ScreenShots</summary>
 <br>
 
 ## Homepage
