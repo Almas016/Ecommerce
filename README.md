@@ -1,15 +1,17 @@
 # Installation
-> $ git clone https://github.com/Almas016/Ecommerce.git
+```
+$ git clone https://github.com/Almas016/Ecommerce.git
 
-> $ cd sauap_reader
+$ cd sauap_reader
 
-> $ composer install # for install dependencies. Run only 1 time
+$ composer install # for install dependencies. Run only 1 time
 
-> $ php artisan migrate:fresh --seed #for create migrations 
+$ php artisan migrate:fresh --seed #for create migrations 
 
-> $ npm run watch 
+$ npm run watch 
 
-> $ php artisan serve
+$ php artisan serve
+```
 
 ## Homepage
 ![alt text](https://github.com/Almas016/Ecommerce/blob/master/ScreenShots/Home-Page.png)
