@@ -15,10 +15,6 @@ class CategoriesTableSeeder extends Seeder
     public function run()
     {
         Category::factory()->count(10)->create([
-            'name'          =>  'Root',
-            'description'   =>  'This is the root category, don\'t delete this one',
-            'parent_id'     =>  null,
-            'menu'          =>  0,
         ]);
     }
 }
